@@ -46,10 +46,9 @@ There are many online courses and videos for the student of R. In fact, the sele
 
 ### 2.1 Websites
 
-Static pages of content.
+[r-bloggers](http://www.r-bloggers.com/how-to-learn-r-2/) is the first place you should go. There is an R learning path which I refer to often. 
 
-R-bloggers
-Data Science Central
+[Data Science Central](http://www.datasciencecentral.com/) for me is more of an inspirational site, with some good articles about Data Science in general.
 
 ### 2.2 Video Courses
 
@@ -109,7 +108,7 @@ I find the best way to learn is by doing. Here I will share some of my projects
 
 # 6. Tips and Tricks
 
-Here I share bits and pieces of code, pacakges, approaches that helped me. My 'a-ha' moments.
+Here I share bits and pieces of code, packages, and approaches that helped me. My 'a-ha' moments.
 
 # 7. TLDR
 
