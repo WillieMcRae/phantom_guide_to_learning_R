@@ -1,0 +1,49 @@
+---
+title: "# The Phantom Guide to learning R"
+author: "Willie McRae"
+date: "15 May 2016"
+output: html_document
+---
+This is a book about learning the programming language of R. It is written in R Markdown in 2016 and hosted here on github during development.
+
+It is written for those with little or no R experience and is designed to be a companion volume to more structured and dense texts that have been written by people who really **do** know lots of things about R.
+
+Here I store my thoughts and reviews on the many books, courses and events out there designed to help the student, and I will give my opinions of the relative usefelness of each that I have tried.
+
+I am not a programmer, or a statistician, or a data scientist. I do not hold formal qualifications in computer science (or any science). However, I attempt to practice a scientific mindset, and many (in fact most) of my intellectual and philosophical heroes did not possess any of the qualifications I mentioned either - so I don't care.
+
+This is my completely biased, subjective attempt to make some sense of the learning path I have been on.
+
+If this book inspires you and keeps you moving, then it has done the job intended.
+
+Good luck!
+
+> "Only a fool thinks that The Phantom cannot program in R"
+(*Old Jungle Saying*)
+
+# 0. Contents
+
+1. Reasons for learning R
+2. Online 
+3. Books
+4. Events
+5. Projects 
+6. Tips and tricks
+7. TLDR 
+
+# 1. Reasons for learning R
+
+For me, these were...
+
+- learn how to improve what I was already doing for my day job (analyzing data as part of a decision making process)
+- learn how to do some sort of programming, as a potential gateway drug into making computer games in the future, and as an insurance policy to cecome at least partly relevant for the age when the robots take over
+- join a community of people who are learning in real time
+- learn skills of *craft*, how to actually *do* things, not just read, react and regurgitate information
+
+
+# 2. Online
+
+There are many online courses and videos for the student of R. In fact, the selection can be daunting. I will not provide a comprehensive list, but instead give you my thoughts on each that I have tried.
+
+
+
