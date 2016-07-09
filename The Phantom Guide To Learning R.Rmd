@@ -2,7 +2,7 @@
 title: "# The Phantom Guide to learning R"
 author: "Willie McRae"
 date: "15 May 2016"
-output: html_document
+output: html_document 
 ---
 This is a book about learning the programming language of R. It is written in R Markdown in 2016 and hosted here on github during development.
 
@@ -12,7 +12,7 @@ Here I store my thoughts and reviews on the many books, courses and events out t
 
 I am not a programmer, or a statistician, or a data scientist. I do not hold formal qualifications in computer science (or any science). However, I attempt to practice a scientific mindset, and many (in fact most) of my intellectual and philosophical heroes did not possess any of the qualifications I mentioned either - so I don't care.
 
-This is my completely biased, subjective attempt to make some sense of the learning path I have been on.
+This is my completely biased, subjective attempt to make some sense of the learning path I have been on, specifically regarding the language of R.
 
 If this book inspires you and keeps you moving, then it has done the job intended.
 
@@ -26,7 +26,7 @@ Good luck!
 1. Reasons for learning R
 2. Online 
 3. Books
-4. Events
+4. Community and Events
 5. Projects 
 6. Tips and tricks
 7. TLDR 
@@ -36,14 +36,86 @@ Good luck!
 For me, these were...
 
 - learn how to improve what I was already doing for my day job (analyzing data as part of a decision making process)
-- learn how to do some sort of programming, as a potential gateway drug into making computer games in the future, and as an insurance policy to cecome at least partly relevant for the age when the robots take over
-- join a community of people who are learning in real time
+- learn how to do some sort of programming, as a potential gateway drug into making computer games in the future, and as an insurance policy to become at least partly relevant for the age when the robots take over
+- join a community of people who are learning and interested in making the world a better place
 - learn skills of *craft*, how to actually *do* things, not just read, react and regurgitate information
-
 
 # 2. Online
 
 There are many online courses and videos for the student of R. In fact, the selection can be daunting. I will not provide a comprehensive list, but instead give you my thoughts on each that I have tried.
 
+### 2.1 Websites
+
+Static pages of content.
+
+R-bloggers
+Data Science Central
+
+### 2.2 Video Courses
+
+Instructional videos, but with no teacher-student interaction.
+
+Udemy
+Lynda
+
+### 2.3 MOOCs
+
+A course with some kind of assessment.
+
+JHU
+Udacity
+
+### 2.4 Interactive
+
+In my opinion, the best way to learn.
+
+DataCamp
+Swirl
+
+# 3. Books
+
+I find books to be an essential part of my diet of learning. There is simply nothing better than being able to flick through a non-fiction book.
+
+### 3.1 About R 
+
+Advanced R
+Data Science With R
+R Cookbook
+R for Dummies
+
+### 3.2 Other similar topics that helped me understand R
+
+Visualize This
+Dynamic Documents with Knitr and Markdown
+
+# 4. Community and Events
+
+Living in London, I am lucky to have access to a community of people with a similar interest in R. 
+
+### 4.1 Meetups
+
+Data Science London
+R Coding Dojo
+
+### 4.2 Lectures
+
+### 4.3 Events
+
+Earl Conference
+
+#  5. Projects
+
+I find the best way to learn is by doing. Here I will share some of my projects
+
+# 6. Tips and Tricks
+
+Here I share bits and pieces of code, pacakges, approaches that helped me. My 'a-ha' moments.
+
+# 7. TLDR
+
+Learning R is a worthwhile thing to do. It's tough, but rewarding. Do it!
+
+> "The Phantom runs towards a challenge"
+(*Old Jungle Saying*)
 
 
