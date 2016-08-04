@@ -50,25 +50,29 @@ There are many online courses and videos for the student of R. In fact, the sele
 
 [Data Science Central](http://www.datasciencecentral.com/) for me is more of an inspirational site, with some good articles about Data Science in general.
 
+Get all the [cheatsheets from R Studio](https://www.rstudio.com/resources/cheatsheets/).
+
 ### 2.2 Video Courses
 
 Instructional videos, but with no teacher-student interaction.
 
 Udemy
 Lynda
+YouTube Brandon Foltz
+Khan Academy
 
 ### 2.3 MOOCs
 
 A course with some kind of assessment.
 
 JHU
-Udacity
+
 
 ### 2.4 Interactive
 
 In my opinion, the best way to learn.
 
-DataCamp
+[DataCamp](https://www.datacamp.com/)
 Swirl
 
 # 3. Books
@@ -93,8 +97,8 @@ Living in London, I am lucky to have access to a community of people with a simi
 
 ### 4.1 Meetups
 
-Data Science London
-R Coding Dojo
+[Central London Data Science Project Nights](https://www.meetup.com/central_london_data_science/)  
+[LondonR](https://www.meetup.com/LondonR/)
 
 ### 4.2 Lectures
 
@@ -104,7 +108,7 @@ Earl Conference
 
 #  5. Projects
 
-I find the best way to learn is by doing. Here I will share some of my projects
+I find the best way to learn is by doing. I will put some projects on GitHub.
 
 # 6. Tips and Tricks
 
