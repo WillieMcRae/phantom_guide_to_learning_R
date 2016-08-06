@@ -4,9 +4,9 @@ author: "Willie McRae"
 date: "15 May 2016"
 output: html_document 
 ---
-This is a book about learning the programming language of R. It is written in R Markdown in 2016 and hosted here on github during development.
+This is a book about learning the programming language of R. It is written in R Markdown in 2016 and hosted here on GitHub during development.
 
-It is written for those with little or no R experience and is designed to be a companion volume to more structured and dense texts that have been written by people who really **do** know lots of things about R.
+It is written for people with little or no R experience and is designed to be a companion volume to more structured and dense texts that have been written by people who really **do** know lots of things about R.
 
 Here I store my thoughts and reviews on the many books, courses and events out there designed to help the student, and I will give my opinions of the relative usefelness of each that I have tried.
 
@@ -33,12 +33,13 @@ Good luck!
 
 # 1. Reasons for learning R
 
-For me, these were...
+For me, these are...
 
 - learn how to improve what I was already doing for my day job (analyzing data as part of a decision making process)
 - learn how to do some sort of programming, as a potential gateway drug into making computer games in the future, and as an insurance policy to become at least partly relevant for the age when the robots take over
 - join a community of people who are learning and interested in making the world a better place
-- learn skills of *craft*, how to actually *do* things, not just read, react and regurgitate information
+
+
 
 # 2. Online
 
