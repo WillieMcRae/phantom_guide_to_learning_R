@@ -35,11 +35,9 @@ Good luck!
 
 For me, these are...
 
-- learn how to improve what I was already doing for my day job (analyzing data as part of a decision making process)
+- learn how to improve what I was already doing for my day job 
 - learn how to do some sort of programming, as a potential gateway drug into making computer games in the future, and as an insurance policy to become at least partly relevant for the age when the robots take over
-- join a community of people who are learning and interested in making the world a better place
-
-
+- join a community of people who are learning and interested in making the world a better place through data analysis
 
 # 2. Online
 
@@ -53,20 +51,19 @@ There are many online courses and videos for the student of R. In fact, the sele
 
 Get all the [cheatsheets from R Studio](https://www.rstudio.com/resources/cheatsheets/).
 
+[This tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) by Trevor Stephens is very good! 
+
 ### 2.2 Video Courses
 
-Instructional videos, but with no teacher-student interaction.
+I find [Brandon Foltz's videos](https://www.youtube.com/user/BCFoltz) the best for learning and revising statistics, they are very thorough and simple to follow.  
 
-Udemy
-Lynda
-YouTube Brandon Foltz
-Khan Academy
+Because I do not have a formal maths background, I am following the [Khan Academy](https://www.khanacademy.org/) maths program.  
+
+[Udemy](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=R&lang=en) has many courses on R. So far, I have found these to be a bit hit and miss, but I am sure there is something good in there. 
 
 ### 2.3 MOOCs
 
-A course with some kind of assessment.
-
-JHU
+I enrolled in the John Hopkins University Data Science Specialization and took the [R Programming](https://www.coursera.org/learn/r-programming) course only a few weeks after starting to learn R. Because of my non-programming background, I found it quite challenging and the teaching methods were not as effective as something like DataCamp. 
 
 
 ### 2.4 Interactive
@@ -82,15 +79,16 @@ I find books to be an essential part of my diet of learning. There is simply not
 
 ### 3.1 About R 
 
-Advanced R
-Data Science With R
-R Cookbook
-R for Dummies
+Advanced R  
+Data Science With R  
+R Cookbook  
+R for Dummies  
 
 ### 3.2 Other similar topics that helped me understand R
 
-Visualize This
-Dynamic Documents with Knitr and Markdown
+How To Lie With Statistics  
+Visualize This  
+Dynamic Documents with Knitr and Markdown  
 
 # 4. Community and Events
 
