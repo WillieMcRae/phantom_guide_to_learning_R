@@ -4,7 +4,7 @@ author: "Willie McRae"
 date: "15 May 2016"
 output: html_document 
 ---
-This is a book about learning the programming language of R. It is written in R Markdown in 2016 and hosted here on GitHub during development.
+This is a book about learning the programming language of R. It is written in R Markdown in 2016 and hosted on GitHub during development.
 
 It is written for people with little or no R experience and is designed to be a companion volume to more structured and dense texts that have been written by people who really **do** know lots of things about R.
 
@@ -82,7 +82,6 @@ I find books to be an essential part of my diet of learning. There is simply not
 Advanced R  
 Data Science With R  
 R Cookbook  
-R for Dummies  
 
 ### 3.2 Other similar topics that helped me understand R
 
@@ -106,8 +105,6 @@ Living in London, I am lucky to have access to a community of people with a simi
 Earl Conference
 
 #  5. Projects
-
-I find the best way to learn is by doing. I will put some projects on GitHub.
 
 # 6. Tips and Tricks
 
