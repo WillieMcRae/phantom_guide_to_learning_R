@@ -8,9 +8,9 @@ This is a book about learning the programming language of R. It is written in R 
 
 It is written for people with little or no R experience and is designed to be a companion volume to more structured and dense texts that have been written by people who really **do** know lots of things about R.
 
-Here I store my thoughts and reviews on the many books, courses and events out there designed to help the student, and I will give my opinions of the relative usefelness of each that I have tried.
+Here I store my thoughts, notes and reviews on the many books, courses and events out there designed to help the student.
 
-I am not a programmer, or a statistician, or a data scientist. I do not hold formal qualifications in computer science (or any science). However, I attempt to practice a scientific mindset, and many (in fact most) of my intellectual and philosophical heroes did not possess any of the qualifications I mentioned either - so I don't care.
+I am not a programmer, or a statistician, or a data scientist. I do not hold formal qualifications in computer science (or any science). However, I attempt to practice a scientific mindset, and many (in fact most) of my intellectual and philosophical heroes did not possess any of the qualifications I mentioned either!
 
 This is my completely biased, subjective attempt to make some sense of the learning path I have been on, specifically regarding the language of R.
 
