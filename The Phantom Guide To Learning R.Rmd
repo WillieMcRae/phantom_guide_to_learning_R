@@ -10,7 +10,7 @@ It is written for people with little or no R experience and is designed to be a 
 
 Here I store my thoughts, notes and reviews on the many books, courses and events I have tried. 
 
-I am not a programmer, or a statistician, or a data scientist. I do not hold formal qualifications in computer science (or any science). However, I attempt to practice a scientific mindset, and many (in fact most) of my intellectual and philosophical heroes did not possess any of the qualifications I mentioned either!
+I do not hold formal qualifications in computer science, data science or programming. However, I attempt to practice a scientific mindset, and many (in fact most) of my intellectual and philosophical heroes did not possess any of the qualifications I mentioned either!
 
 This is my completely biased, subjective attempt to make some sense of the learning path I have been on.
 
@@ -35,8 +35,7 @@ Good luck!
 
 For me, these are...
 
-- learn how to improve what I was already doing for my day job 
-- learn how to do some sort of programming, as a potential gateway drug into making computer games in the future, and as an insurance policy to become more relevant for the age when the robots take over
+- learn how to do some sort of programming, as a gateway drug into making interactive data visualizations and computer games in the future, and as an insurance policy to become more relevant for the age when the robots take over
 - join a community of people who are learning and interested in making the world a better place through data analysis and data-driven decision making
 
 # 2. Online
@@ -45,13 +44,15 @@ There are many online courses and videos for the student of R. I will give you m
 
 ### 2.1 Websites
 
-[r-bloggers](http://www.r-bloggers.com/how-to-learn-r-2/) is the first place you should go. There is an R learning path which I refer to often. 
+[r-bloggers](http://www.r-bloggers.com/how-to-learn-r-2/) is the first place you should go. There is a comprehensive R learning path which I refer to often. 
 
 [Data Science Central](http://www.datasciencecentral.com/) for me is more of an inspirational site, with some good articles about Data Science in general.
 
 Get all the [cheatsheets from R Studio](https://www.rstudio.com/resources/cheatsheets/).
 
 [This tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) by Trevor Stephens is very good! 
+
+[Kaggle](https://www.kaggle.com/) is a good place o get inspired and look at useful scripts and approaches to real world data problems.
 
 ### 2.2 Video Courses
 
@@ -72,7 +73,7 @@ In my opinion, the best way to learn. I have set myself the goal of finishing al
 
 # 3. Books
 
-I find books to be an essential part of my diet of learning. There is simply nothing better than being able to flick through a non-fiction book.
+These are the books I have found to be most helpful. 
 
 ### 3.1 About R 
 
