@@ -68,7 +68,7 @@ I enrolled in the John Hopkins University Data Science Specialization and took t
 
 In my opinion, the best way to learn. I have set myself the goal of finishing all of these courses before the end of 2016.
 
-[DataCamp](https://www.datacamp.com/)  
+[DataCamp](https://www.datacamp.com/) is completely worth the subscrioption fee and they also do Python courses.  
 [Swirl](http://swirlstats.com/)
 
 # 3. Books
@@ -80,7 +80,7 @@ These are the books I have found to be most helpful.
 Advanced R  
 Data Science With R  
 R Cookbook  
-Learning R
+Learning R  
 R For Dummies
 
 ### 3.2 Other similar topics that helped me understand R
