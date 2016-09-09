@@ -135,6 +135,11 @@ For the actual story bit I refer to the craft of writing/storytelling, rather th
 I find the following point very useful and keeps me on track when trying to craft a story (the trick is what changed, or will change and who it affected or will affect)  
 Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
+## 6.2 Useful code
+
+Use `mutate_each` from dplyr package to coerce multiple columns into differnt types  
+
+
 # 7. TLDR
 
 I have found learning R to be a surprisingly fun, and extremely useful thing to do. It's tough, but rewarding. Do it!
