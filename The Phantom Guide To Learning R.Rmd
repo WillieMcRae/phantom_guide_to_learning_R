@@ -137,7 +137,7 @@ Once upon a time there was ___. Every day, ___. One day ___. Because of that, __
 
 ## 6.2 Useful code
 
-Use `mutate_each` from dplyr package to coerce multiple columns into differnt types  
+Use `mutate_each` from dplyr package to coerce multiple columns into different types  
 
 
 # 7. TLDR
