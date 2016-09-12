@@ -75,7 +75,7 @@ I enrolled in the John Hopkins University Data Science Specialization and took t
 
 In my opinion, the best way to learn. I have set myself the goal of finishing all of these courses before the end of 2016.
 
-[DataCamp](https://www.datacamp.com/) is completely worth the subscrioption fee and they also do Python courses.  
+[DataCamp](https://www.datacamp.com/) is completely worth the subscription fee and they also do Python courses.  
 [Swirl](http://swirlstats.com/)
 
 # 3. Books
