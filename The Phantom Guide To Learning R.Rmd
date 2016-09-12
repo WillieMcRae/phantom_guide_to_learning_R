@@ -144,6 +144,8 @@ Once upon a time there was ___. Every day, ___. One day ___. Because of that, __
 
 Use `mutate_each` from dplyr package to coerce multiple columns into different types  
 
+I have cerated a simple [template for exploratory analysis](https://github.com/WillieMcRae/r_templates/blob/master/Rmd_exploratory_template.Rmd)
+
 
 # 7. TLDR
 
