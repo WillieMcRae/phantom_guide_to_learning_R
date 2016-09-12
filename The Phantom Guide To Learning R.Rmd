@@ -42,7 +42,7 @@ For me, these are...
 - improve the output of my day to day activities around data analyis and data-driven decision making  
 
 Not convinced? Try some of these links...  
-
+[Why you should learn R first for Data Science](https://www.r-bloggers.com/why-you-should-learn-r-first-for-data-science/)
 
 
 # 2. Online
