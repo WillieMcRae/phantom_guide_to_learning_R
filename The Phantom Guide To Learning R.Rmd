@@ -109,9 +109,7 @@ Living in London, I am lucky to have access to a community of people with a simi
 
 ### 4.3 Events
 
-[EARL Conference](https://earlconf.com/london/)
-
-(reserved for notes)
+[EARL Conference](https://earlconf.com/london/) - [here are my notes](http://www.williemcrae.com/EARL_Conference_Notes_Master.html)  
 
 # 5. Projects
 
@@ -133,12 +131,22 @@ Reserved for bits and pieces of code, packages, and approaches that helped me.
  
 Data storytelling is about showing the ‘tip of the iceberg’ and should be supported by a larger volume of research/exploration than the end consumer sees (but can be referred to quickly if required to add some kind of ‘re-assurance factor’ or ‘shock and awe’ depending on the audience)  
 
-Some basics of communication are not really storytelling – these include things like clear explanations of what variables are, what the data set is, any calculated fields/exclusions, and also creation of plots, slides etc  
+I believe some basics of communication are not really storytelling – these include things like clear explanations of what variables are, what the data set is, any calculated fields/exclusions, and also creation of plots, slides etc.  
+
+### Pixar  
 
 For the actual story bit I refer to the craft of writing/storytelling, rather than data specialists - check [this link]( http://io9.gizmodo.com/5916970/the-22-rules-of-storytelling-according-to-pixar)  
 
 I find the following point very useful and keeps me on track when trying to craft a story (the trick is what changed, or will change and who it affected or will affect)  
-Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
+Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.  
+
+### Questions approach vs scripted dialogue.  
+
+From [Improv Wisdom](http://www.goodreads.com/book/show/182052.Improv_Wisdom)  
+
+### Screenwriting  
+
+Each scene has a beat, consider for your slides.  
 
 ## 6.2 Useful code
 
