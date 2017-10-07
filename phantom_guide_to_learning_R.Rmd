@@ -159,7 +159,9 @@ Each scene has a beat, consider for your slides.
 
 Use `mutate_each` from dplyr package to coerce multiple columns into different types  
 
-I have created a simple [template for exploratory analysis](https://github.com/WillieMcRae/r_templates/blob/master/Rmd_exploratory_template.Rmd) which I use on brand new data sets
+I have created a simple [template for exploratory analysis](https://github.com/WillieMcRae/r_templates/blob/master/Rmd_exploratory_template.Rmd) which I use on brand new data sets  
+
+Peter Ellis has an [excellent article](http://ellisp.github.io/blog/2017/09/09/rmarkdown) on setting up R projects and creating corporate styles  
 
 
 # 7. TLDR
