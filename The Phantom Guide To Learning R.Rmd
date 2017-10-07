@@ -1,7 +1,7 @@
 ---
 title: "# The Phantom Guide to learning R"
 author: "Willie McRae"
-date: "15 May 2016"
+date: "7th October 2017"
 output: 
   html_document: 
     toc: yes
@@ -49,7 +49,15 @@ Not convinced? Try some of these links...
 
 There are many online courses and videos for the student of R. I will give you my thoughts on each that I have tried.
 
-### 2.1 Websites
+### 2.1 Interactive
+
+Start here.  
+
+[DataCamp](https://www.datacamp.com/) is completely worth the subscription fee and they also do Python courses.  
+[Swirl](http://swirlstats.com/)
+
+
+### 2.2 Websites
 
 [r-bloggers](http://www.r-bloggers.com/how-to-learn-r-2/) is the first place you should go. There is a comprehensive R learning path which I refer to often. 
 
@@ -61,22 +69,19 @@ Get all the [cheatsheets from R Studio](https://www.rstudio.com/resources/cheats
 
 [Kaggle](https://www.kaggle.com/) is a good place to get inspired and look at useful scripts and approaches to real world data problems.
 
-### 2.2 Video Courses
+### 2.3 Video Courses
 
 I find [Brandon Foltz's videos](https://www.youtube.com/user/BCFoltz) the best for learning and revising statistics, they are very thorough and simple to follow.  
 
 Because I do not have a formal maths background, I am following the [Khan Academy](https://www.khanacademy.org/) maths program.  
 
-### 2.3 MOOCs
+### 2.4 MOOCs
 
 I enrolled in the John Hopkins University Data Science Specialization and took the [R Programming](https://www.coursera.org/learn/r-programming) course only a few weeks after starting to learn R. Because of my non-programming background, I found it quite challenging and the teaching methods were not as effective as something like DataCamp. 
 
-### 2.4 Interactive
+### 2.5 Cheatsheets
 
-In my opinion, the best way to learn. I have set myself the goal of finishing all of these courses before the end of 2016.
-
-[DataCamp](https://www.datacamp.com/) is completely worth the subscription fee and they also do Python courses.  
-[Swirl](http://swirlstats.com/)
+There are a numnbver of cheatsheets available online worth printing and having on hand - especially the ones from [R Studio](https://www.rstudio.com/resources/cheatsheets/)
 
 # 3. Books
 
@@ -95,6 +100,7 @@ R For Dummies
 How To Lie With Statistics  
 Visualize This  
 Dynamic Documents with Knitr and Markdown  
+Applied Predictive Modeling
 
 # 4. Community and Events
 
@@ -102,6 +108,7 @@ Living in London, I am lucky to have access to a community of people with a simi
 
 ### 4.1 Meetups
 
+[London Kaggle Meetup](https://www.meetup.com/London-Kaggle-Meetup/)
 [Central London Data Science Project Nights](https://www.meetup.com/central_london_data_science/), also has a location on [GitHub](https://github.com/central-ldn-data-sci)  
 [LondonR](https://www.meetup.com/LondonR/)
 
@@ -109,7 +116,7 @@ Living in London, I am lucky to have access to a community of people with a simi
 
 ### 4.3 Events
 
-[EARL Conference](https://earlconf.com/london/) - [here are my notes](http://www.williemcrae.com/EARL_Conference_Notes_Master.html)  
+[EARL Conference 2016](https://earlconf.com/london/) - [here are my notes](http://www.williemcrae.com/EARL_Conference_Notes_Master.html)  
 
 # 5. Projects
 
