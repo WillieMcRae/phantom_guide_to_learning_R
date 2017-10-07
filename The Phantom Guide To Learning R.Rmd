@@ -6,7 +6,7 @@ output:
   html_document: 
     toc: yes
 ---
-This is a book about my journey learning the programming language of R. 
+This is a document about my journey learning the programming language of R. 
 
 It is written for people with little or no R experience and is designed to be a companion volume to more structured and dense texts that have been written by people who really **do** know lots of things about R.
 
@@ -16,7 +16,7 @@ I do not hold formal qualifications in computer science, data science or program
 
 This is my completely biased, subjective attempt to make some sense of the learning path I have been on.
 
-If this book inspires you and keeps you moving, then it has done the job intended.
+If this inspires you and keeps you moving, then it has done the job intended.
 
 Good luck!
 
