@@ -1,5 +1,5 @@
 ---
-title: "# The Phantom Guide to learning R"
+title: "# The Phantom's Guide to learning R"
 author: "Willie McRae"
 date: "7th October 2017"
 output: 
